@@ -1,0 +1,32 @@
+1543767911a:1:{s:9:"index.htm";a:9:{s:8:"fileName";s:9:"index.htm";s:7:"content";s:933:"title = "Home"
+url = "/"
+layout = "default"
+is_hidden = 0
+==
+<div class="the-intro d-flex align-items-center my-3">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 text-center pr-md-5">
+                <img class="img-fluid mb-5" src="https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="" width="270" height="227">
+                <h1 class="display-4 testy">Bootstrap Starter Kit</h1>
+                <small class="lead font-weight-normal">
+                    Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+                </small>
+                <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank" class="btn btn-outline-primary my-5 px-5" style="border-radius:38px">Get started</a>
+            </div>
+        </div>
+    </div>
+</div>";s:5:"mtime";i:1543712067;s:6:"markup";s:872:"<div class="the-intro d-flex align-items-center my-3">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 text-center pr-md-5">
+                <img class="img-fluid mb-5" src="https://getbootstrap.com/docs/4.1/assets/img/bootstrap-stack.png" alt="" width="270" height="227">
+                <h1 class="display-4 testy">Bootstrap Starter Kit</h1>
+                <small class="lead font-weight-normal">
+                    Build responsive, mobile-first projects on the web with the world's most popular front-end component library.
+                </small>
+                <a href="https://getbootstrap.com/docs/4.1/getting-started/introduction/" target="_blank" class="btn btn-outline-primary my-5 px-5" style="border-radius:38px">Get started</a>
+            </div>
+        </div>
+    </div>
+</div>";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"default";s:9:"is_hidden";s:1:"0";}}
